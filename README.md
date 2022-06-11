@@ -1,3 +1,6 @@
+# Roadmapы других ребят
+- [Computer Science](https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md)
+
 # Основы
 - [ ] [Архитектура ЭВМ](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
 # Потом поправлю
