@@ -1,10 +1,11 @@
 # Roadmapы других ребят
 - [Computer Science](https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md)
 - [Computer Science Habr](https://habr.com/ru/post/251747/)
+- [Open Source Computer](https://github.com/ForrestKnight/open-source-cs)
+- [OSSU CS](https://github.com/ossu/computer-science)
 
 # Основы
 - [ ] [Архитектура ЭВМ](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
-- [ ] 
 # Программирование
 - [ ] [RustBook](https://doc.rust-lang.ru/book/) 
 
